@@ -1,0 +1,28 @@
+{
+  "name": "matplotlib-js",
+  "version": "0.0.1",
+  "description": "library to create charts from dataframes",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andcastillo/matplotlib-js.git"
+  },
+  "keywords": [
+    "scatterplot",
+    "violinplot",
+    "hist",
+    "pie"
+  ],
+  "author": "Andres M. Castillo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andcastillo/matplotlib-js/issues"
+  },
+  "homepage": "https://github.com/andcastillo/matplotlib-js#readme",
+  "dependencies": {
+    "chroma-js": "^2.0.4"
+  }
+}
